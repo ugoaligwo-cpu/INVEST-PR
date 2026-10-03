@@ -1,0 +1,621 @@
+
+> investinnova@0.1.0 dev
+> next dev
+
+▲ Next.js 16.3.6 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://100.127.255.253:3000
+✓ Ready in 2.2s
+✓ Running next.config.ts took 174ms
+
+ GET /contact 200 in 3.9s (next.js: 2.2s, application-code: 1683ms)
+ GET / 200 in 3.9s (next.js: 1983ms, application-code: 1933ms)
+ GET / 200 in 857ms (next.js: 13ms, application-code: 844ms)
+ GET /invest-plans 200 in 624ms (next.js: 121ms, application-code: 502ms)
+ GET /how-it-works 200 in 452ms (next.js: 116ms, application-code: 337ms)
+ GET /about 200 in 598ms (next.js: 132ms, application-code: 466ms)
+ GET /help 200 in 508ms (next.js: 138ms, application-code: 369ms)
+ GET /contact 200 in 364ms (next.js: 15ms, application-code: 349ms)
+ GET /privacy-policy 200 in 2.2s (next.js: 1836ms, application-code: 376ms)
+ GET /login 200 in 659ms (next.js: 287ms, application-code: 372ms)
+ GET /register 200 in 2.1s (next.js: 1828ms, application-code: 311ms)
+ GET /forgot-password 200 in 2.7s (next.js: 2.3s, application-code: 371ms)
+ GET /dashboard 200 in 774ms (next.js: 110ms, application-code: 664ms)
+ GET /transactions 200 in 301ms (next.js: 111ms, application-code: 189ms)
+ GET /invest 200 in 321ms (next.js: 96ms, application-code: 225ms)
+ GET /deposit 200 in 341ms (next.js: 115ms, application-code: 226ms)
+ GET /withdrawal 200 in 307ms (next.js: 121ms, application-code: 186ms)
+ GET /referral 200 in 285ms (next.js: 101ms, application-code: 185ms)
+ GET /referrals 200 in 358ms (next.js: 113ms, application-code: 244ms)
+ GET /profile 200 in 524ms (next.js: 276ms, application-code: 248ms)
+ GET /invest-plans 200 in 2.0s (next.js: 70ms, application-code: 1936ms)
+ GET / 200 in 2.0s (next.js: 156ms, application-code: 1861ms)
+✓ Compiled in 1739ms
+ GET /contact 200 in 283ms (next.js: 48ms, application-code: 234ms)
+ GET / 200 in 639ms (next.js: 76ms, application-code: 563ms)
+[browser] Image with src "/investinnova-logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+✓ Compiled in 1153ms
+ GET /contact 200 in 274ms (next.js: 42ms, application-code: 232ms)
+ GET / 200 in 645ms (next.js: 79ms, application-code: 566ms)
+✓ Compiled in 319ms
+ GET /contact 200 in 361ms (next.js: 31ms, application-code: 330ms)
+ GET / 200 in 260ms (next.js: 38ms, application-code: 222ms)
+✓ Compiled in 1070ms
+ GET /contact 200 in 259ms (next.js: 38ms, application-code: 221ms)
+ GET / 200 in 569ms (next.js: 46ms, application-code: 523ms)
+✓ Compiled in 645ms
+ GET /contact 200 in 327ms (next.js: 87ms, application-code: 239ms)
+ GET / 200 in 722ms (next.js: 55ms, application-code: 667ms)
+✓ Compiled in 313ms
+ GET /contact 200 in 333ms (next.js: 57ms, application-code: 276ms)
+ GET / 200 in 349ms (next.js: 143ms, application-code: 206ms)
+✓ Compiled in 471ms
+ GET /contact 200 in 654ms (next.js: 310ms, application-code: 344ms)
+ GET / 200 in 684ms (next.js: 112ms, application-code: 572ms)
+✓ Compiled in 390ms
+ GET /contact 200 in 170ms (next.js: 35ms, application-code: 134ms)
+ GET / 200 in 458ms (next.js: 35ms, application-code: 423ms)
+✓ Compiled in 339ms
+ GET /contact 200 in 404ms (next.js: 40ms, application-code: 364ms)
+ GET / 200 in 294ms (next.js: 32ms, application-code: 262ms)
+ GET /contact 200 in 382ms (next.js: 38ms, application-code: 345ms)
+ GET / 200 in 374ms (next.js: 126ms, application-code: 248ms)
+ GET /contact 200 in 280ms (next.js: 32ms, application-code: 248ms)
+ GET / 200 in 605ms (next.js: 19ms, application-code: 587ms)
+ GET /invest-plans 200 in 553ms (next.js: 107ms, application-code: 446ms)
+ GET /invest-plans 200 in 545ms (next.js: 13ms, application-code: 531ms)
+ GET /contact 200 in 170ms (next.js: 43ms, application-code: 127ms)
+ GET / 200 in 451ms (next.js: 35ms, application-code: 415ms)
+ GET / 200 in 4.9s (next.js: 15ms, application-code: 4.9s)
+ GET / 200 in 5.1s (next.js: 197ms, application-code: 4.9s)
+ GET /invest-plans 200 in 3.2s (next.js: 314ms, application-code: 2.9s)
+ GET / 200 in 3.1s (next.js: 1053ms, application-code: 2.0s)
+ GET / 200 in 1432ms (next.js: 381ms, application-code: 1052ms)
+✓ Compiled in 715ms
+ GET /contact 200 in 143ms (next.js: 15ms, application-code: 128ms)
+ GET / 200 in 471ms (next.js: 53ms, application-code: 418ms)
+ GET /invest-plans 200 in 587ms (next.js: 54ms, application-code: 533ms)
+ GET /about 200 in 581ms (next.js: 179ms, application-code: 402ms)
+ GET /how-it-works 200 in 608ms (next.js: 98ms, application-code: 510ms)
+ GET /how-it-works 200 in 407ms (next.js: 42ms, application-code: 364ms)
+ GET / 200 in 439ms (next.js: 16ms, application-code: 423ms)
+ GET /invest-plans 200 in 640ms (next.js: 11ms, application-code: 628ms)
+ GET /about 200 in 264ms (next.js: 11ms, application-code: 253ms)
+ GET /dashboard 200 in 369ms (next.js: 63ms, application-code: 306ms)
+[browser] In HTML, <a> cannot be a descendant of <a>.
+This will cause a hydration error.
+
+  ...
+    <LoadingBoundary name="/" loading={null}>
+      <HTTPAccessFallbackBoundary notFound={{...}} forbidden={undefined} unauthorized={undefined}>
+        <HTTPAccessFallbackErrorBoundary pathname="/dashboard" notFound={{...}} forbidden={undefined} ...>
+          <RedirectBoundary>
+            <RedirectErrorBoundary router={{...}}>
+              <InnerLayoutRouter url="/dashboard" tree={[...]} params={{}} cacheNode={{rsc:{...}, ...}} ...>
+                <SegmentViewNode type="layout" pagePath="(app)/layo...">
+                  <SegmentTrieNode>
+                  <script>
+                  <script>
+                  <DashboardLayout>
+                    <DashboardShell>
+                      <div className="min-h-scre...">
+                        <header>
+                        <aside className="fixed bott...">
+                          <LinkComponent href="/dashboard" className="grid size-..." aria-label="Dashboard ...">
+>                           <a
+>                             className="grid size-11 place-items-center rounded-xl"
+>                             aria-label="Dashboard home"
+>                             ref={function}
+>                             onClick={function onClick}
+>                             onMouseEnter={function onMouseEnter}
+>                             onTouchStart={function onTouchStart}
+>                             href="/dashboard"
+>                           >
+                              <Logo href="/dashboard" compact={true}>
+                                <LinkComponent href="/dashboard" className="group inli..." aria-label="Investinno...">
+>                                 <a
+>                                   className="group inline-flex shrink-0 items-center gap-2.5"
+>                                   aria-label="Investinnova home"
+>                                   ref={function}
+>                                   onClick={function onClick}
+>                                   onMouseEnter={function onMouseEnter}
+>                                   onTouchStart={function onTouchStart}
+>                                   href="/dashboard"
+>                                 >
+                          ...
+                        ...
+              ...
+ 
+[browser] <a> cannot contain a nested <a>.
+See this log for the ancestor stack trace. 
+[browser] Encountered a script tag while rendering React component. Scripts inside React components are never executed when rendering on the client. Consider using template tag instead (https://developer.mozilla.org/en-US/docs/Web/HTML/Element/template). 
+[browser] Uncaught Error: Hydration failed because the server rendered HTML didn't match the client. As a result this tree will be regenerated on the client. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+https://react.dev/link/hydration-mismatch
+    at <unknown> (https://react.dev/link/hydration-mismatch)
+    at a (<anonymous>)
+    at Logo (src/components/ui/logo.tsx:24:5)
+    at DashboardShell (src/components/dashboard/dashboard-shell.tsx:103:11)
+    at DashboardLayout (src\app\(app)\layout.tsx:14:10)
+  22 | }) {
+  23 |   return (
+> 24 |     <Link
+     |     ^
+  25 |       href={href}
+  26 |       className={cn(
+  27 |         "group inline-flex shrink-0 items-center gap-2.5",
+ GET /login 200 in 310ms (next.js: 48ms, application-code: 262ms)
+ GET /how-it-works 200 in 540ms (next.js: 46ms, application-code: 494ms)
+ GET /contact 200 in 498ms (next.js: 39ms, application-code: 459ms)
+ GET / 200 in 338ms (next.js: 87ms, application-code: 251ms)
+ GET /contact 200 in 177ms (next.js: 23ms, application-code: 154ms)
+ GET / 200 in 464ms (next.js: 15ms, application-code: 449ms)
+✓ Compiled in 806ms
+ GET /contact 200 in 458ms (next.js: 14ms, application-code: 445ms)
+ GET / 200 in 392ms (next.js: 17ms, application-code: 376ms)
+ GET /how-it-works 200 in 484ms (next.js: 121ms, application-code: 362ms)
+ GET /about 200 in 493ms (next.js: 97ms, application-code: 396ms)
+ GET /contact 200 in 381ms (next.js: 35ms, application-code: 346ms)
+ GET /login 200 in 229ms (next.js: 65ms, application-code: 163ms)
+ GET /dashboard 200 in 278ms (next.js: 22ms, application-code: 256ms)
+[browser] In HTML, <a> cannot be a descendant of <a>.
+This will cause a hydration error.
+
+  ...
+    <LoadingBoundary name="/" loading={null}>
+      <HTTPAccessFallbackBoundary notFound={{...}} forbidden={undefined} unauthorized={undefined}>
+        <HTTPAccessFallbackErrorBoundary pathname="/dashboard" notFound={{...}} forbidden={undefined} ...>
+          <RedirectBoundary>
+            <RedirectErrorBoundary router={{...}}>
+              <InnerLayoutRouter url="/dashboard" tree={[...]} params={{}} cacheNode={{rsc:{...}, ...}} ...>
+                <SegmentViewNode type="layout" pagePath="(app)/layo...">
+                  <SegmentTrieNode>
+                  <script>
+                  <script>
+                  <DashboardLayout>
+                    <DashboardShell>
+                      <div className="min-h-scre...">
+                        <header>
+                        <aside className="fixed bott...">
+                          <LinkComponent href="/dashboard" className="grid size-..." aria-label="Dashboard ...">
+>                           <a
+>                             className="grid size-11 place-items-center rounded-xl"
+>                             aria-label="Dashboard home"
+>                             ref={function}
+>                             onClick={function onClick}
+>                             onMouseEnter={function onMouseEnter}
+>                             onTouchStart={function onTouchStart}
+>                             href="/dashboard"
+>                           >
+                              <Logo href="/dashboard" compact={true}>
+                                <LinkComponent href="/dashboard" className="group inli..." aria-label="Investinno...">
+>                                 <a
+>                                   className="group inline-flex shrink-0 items-center gap-2.5"
+>                                   aria-label="Investinnova home"
+>                                   ref={function}
+>                                   onClick={function onClick}
+>                                   onMouseEnter={function onMouseEnter}
+>                                   onTouchStart={function onTouchStart}
+>                                   href="/dashboard"
+>                                 >
+                          ...
+                        ...
+              ...
+ 
+[browser] <a> cannot contain a nested <a>.
+See this log for the ancestor stack trace. 
+[browser] Encountered a script tag while rendering React component. Scripts inside React components are never executed when rendering on the client. Consider using template tag instead (https://developer.mozilla.org/en-US/docs/Web/HTML/Element/template). 
+[browser] Uncaught Error: Hydration failed because the server rendered HTML didn't match the client. As a result this tree will be regenerated on the client. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+https://react.dev/link/hydration-mismatch
+    at <unknown> (https://react.dev/link/hydration-mismatch)
+    at a (<anonymous>)
+    at Logo (src/components/ui/logo.tsx:24:5)
+    at DashboardShell (src/components/dashboard/dashboard-shell.tsx:103:11)
+    at DashboardLayout (src\app\(app)\layout.tsx:14:10)
+  22 | }) {
+  23 |   return (
+> 24 |     <Link
+     |     ^
+  25 |       href={href}
+  26 |       className={cn(
+  27 |         "group inline-flex shrink-0 items-center gap-2.5",
+ GET /login 200 in 322ms (next.js: 45ms, application-code: 277ms)
+ GET / 200 in 502ms (next.js: 25ms, application-code: 477ms)
+ GET /contact 200 in 128ms (next.js: 11ms, application-code: 117ms)
+ GET / 200 in 342ms (next.js: 10ms, application-code: 332ms)
+ GET /login 200 in 177ms (next.js: 17ms, application-code: 160ms)
+ GET /dashboard 200 in 324ms (next.js: 56ms, application-code: 268ms)
+ GET /login 200 in 307ms (next.js: 22ms, application-code: 284ms)
+ GET /login 200 in 197ms (next.js: 18ms, application-code: 179ms)
+ GET /login 200 in 199ms (next.js: 12ms, application-code: 187ms)
+✓ Compiled in 804ms
+ GET /contact 200 in 412ms (next.js: 21ms, application-code: 391ms)
+ GET / 200 in 348ms (next.js: 17ms, application-code: 331ms)
+ GET /contact 200 in 283ms (next.js: 22ms, application-code: 261ms)
+ GET / 200 in 292ms (next.js: 110ms, application-code: 182ms)
+✓ Compiled in 548ms
+ GET /contact 200 in 340ms (next.js: 15ms, application-code: 325ms)
+ GET / 200 in 250ms (next.js: 12ms, application-code: 238ms)
+ GET /contact 200 in 395ms (next.js: 18ms, application-code: 377ms)
+ GET / 200 in 415ms (next.js: 116ms, application-code: 298ms)
+✓ Compiled in 672ms
+ GET /contact 200 in 377ms (next.js: 13ms, application-code: 365ms)
+ GET / 200 in 359ms (next.js: 10ms, application-code: 349ms)
+ GET /contact 200 in 494ms (next.js: 66ms, application-code: 428ms)
+ GET /contact 200 in 336ms (next.js: 14ms, application-code: 322ms)
+ GET / 200 in 200ms (next.js: 12ms, application-code: 188ms)
+[browser] Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+ GET / 200 in 952ms (next.js: 40ms, application-code: 912ms)
+ GET / 200 in 947ms (next.js: 400ms, application-code: 547ms)
+ GET / 200 in 1313ms (next.js: 53ms, application-code: 1260ms)
+ GET /invest-plans 200 in 623ms (next.js: 202ms, application-code: 422ms)
+ GET /invest-plans 200 in 947ms (next.js: 52ms, application-code: 896ms)
+ GET /how-it-works 200 in 168ms (next.js: 26ms, application-code: 142ms)
+ GET /help 200 in 111ms (next.js: 40ms, application-code: 71ms)
+ GET /about 200 in 107ms (next.js: 37ms, application-code: 70ms)
+ GET /contact 200 in 142ms (next.js: 20ms, application-code: 122ms)
+ GET / 200 in 782ms (next.js: 35ms, application-code: 747ms)
+ GET /dashboard 200 in 397ms (next.js: 97ms, application-code: 300ms)
+ GET /invest-plans 200 in 759ms (next.js: 46ms, application-code: 714ms)
+ GET /contact 200 in 800ms (next.js: 388ms, application-code: 412ms)
+ GET / 200 in 929ms (next.js: 59ms, application-code: 870ms)
+ GET /register 200 in 313ms (next.js: 133ms, application-code: 180ms)
+ GET /invest 200 in 423ms (next.js: 141ms, application-code: 283ms)
+ GET /profile 200 in 361ms (next.js: 100ms, application-code: 261ms)
+✓ Compiled in 1062ms
+ GET /contact 200 in 479ms (next.js: 14ms, application-code: 465ms)
+ GET / 200 in 415ms (next.js: 18ms, application-code: 398ms)
+✓ Compiled in 2.6s
+ GET /contact 200 in 813ms (next.js: 48ms, application-code: 765ms)
+ GET / 200 in 915ms (next.js: 239ms, application-code: 676ms)
+✓ Compiled in 1103ms
+ GET /contact 200 in 646ms (next.js: 22ms, application-code: 624ms)
+ GET / 200 in 620ms (next.js: 79ms, application-code: 541ms)
+✓ Compiled in 973ms
+ GET /contact 200 in 652ms (next.js: 29ms, application-code: 623ms)
+ GET / 200 in 740ms (next.js: 183ms, application-code: 557ms)
+✓ Compiled in 748ms
+ GET /contact 200 in 630ms (next.js: 26ms, application-code: 605ms)
+ GET / 200 in 653ms (next.js: 218ms, application-code: 434ms)
+ GET /dashboard 200 in 497ms (next.js: 160ms, application-code: 337ms)
+ GET /invest 200 in 400ms (next.js: 44ms, application-code: 356ms)
+ GET /transactions 200 in 359ms (next.js: 74ms, application-code: 284ms)
+ GET /referral 200 in 324ms (next.js: 79ms, application-code: 245ms)
+ GET /contact 200 in 454ms (next.js: 264ms, application-code: 191ms)
+ GET / 200 in 569ms (next.js: 28ms, application-code: 541ms)
+ GET /contact 200 in 630ms (next.js: 27ms, application-code: 604ms)
+ GET / 200 in 926ms (next.js: 31ms, application-code: 895ms)
+ GET /deposit 200 in 463ms (next.js: 102ms, application-code: 361ms)
+ GET /profile 200 in 294ms (next.js: 56ms, application-code: 238ms)
+ GET /invest/new 200 in 566ms (next.js: 243ms, application-code: 323ms)
+✓ Compiled in 813ms
+ GET /contact 200 in 545ms (next.js: 24ms, application-code: 521ms)
+ GET / 200 in 546ms (next.js: 31ms, application-code: 515ms)
+✓ Compiled in 1059ms
+ GET /contact 200 in 503ms (next.js: 20ms, application-code: 484ms)
+ GET / 200 in 536ms (next.js: 40ms, application-code: 496ms)
+✓ Compiled in 1081ms
+ GET /contact 200 in 462ms (next.js: 26ms, application-code: 436ms)
+ GET / 200 in 416ms (next.js: 27ms, application-code: 389ms)
+✓ Compiled in 1211ms
+ GET /contact 200 in 592ms (next.js: 13ms, application-code: 579ms)
+ GET / 200 in 674ms (next.js: 31ms, application-code: 642ms)
+✓ Compiled in 937ms
+ GET /deposit 200 in 394ms (next.js: 95ms, application-code: 300ms)
+ GET /dashboard 200 in 314ms (next.js: 71ms, application-code: 242ms)
+ GET /withdrawal 200 in 344ms (next.js: 88ms, application-code: 256ms)
+ GET /invest/new 200 in 367ms (next.js: 83ms, application-code: 284ms)
+ GET /help 200 in 402ms (next.js: 34ms, application-code: 368ms)
+ GET /register 200 in 249ms (next.js: 26ms, application-code: 223ms)
+ GET /invest-plans 200 in 785ms (next.js: 19ms, application-code: 766ms)
+ GET /dashboard 200 in 311ms (next.js: 22ms, application-code: 288ms)
+ GET / 200 in 607ms (next.js: 22ms, application-code: 584ms)
+ GET /invest-plans 200 in 1331ms (next.js: 21ms, application-code: 1311ms)
+ GET /how-it-works 200 in 441ms (next.js: 27ms, application-code: 414ms)
+ GET /about 200 in 387ms (next.js: 21ms, application-code: 366ms)
+ GET /help 200 in 430ms (next.js: 14ms, application-code: 415ms)
+ GET /contact 200 in 449ms (next.js: 23ms, application-code: 426ms)
+ GET /privacy-policy 200 in 372ms (next.js: 52ms, application-code: 320ms)
+ GET /login 200 in 306ms (next.js: 56ms, application-code: 250ms)
+ GET /register 200 in 233ms (next.js: 13ms, application-code: 221ms)
+ GET /forgot-password 200 in 267ms (next.js: 52ms, application-code: 214ms)
+ GET /dashboard 200 in 347ms (next.js: 12ms, application-code: 335ms)
+ GET /transactions 200 in 392ms (next.js: 41ms, application-code: 351ms)
+ GET /invest 200 in 466ms (next.js: 42ms, application-code: 424ms)
+ GET /invest/new 200 in 305ms (next.js: 16ms, application-code: 289ms)
+ GET /deposit 200 in 388ms (next.js: 17ms, application-code: 371ms)
+ GET /withdrawal 200 in 272ms (next.js: 13ms, application-code: 259ms)
+ GET /referral 200 in 279ms (next.js: 33ms, application-code: 246ms)
+ GET /referrals 200 in 334ms (next.js: 66ms, application-code: 267ms)
+ GET /profile 200 in 558ms (next.js: 76ms, application-code: 482ms)
+ GET / 200 in 629ms (next.js: 33ms, application-code: 596ms)
+ GET /invest-plans 200 in 574ms (next.js: 13ms, application-code: 562ms)
+ GET /how-it-works 200 in 496ms (next.js: 18ms, application-code: 478ms)
+ GET /about 200 in 414ms (next.js: 16ms, application-code: 398ms)
+ GET /help 200 in 416ms (next.js: 11ms, application-code: 404ms)
+ GET /contact 200 in 430ms (next.js: 20ms, application-code: 410ms)
+ GET /privacy-policy 200 in 344ms (next.js: 13ms, application-code: 331ms)
+ GET /login 200 in 198ms (next.js: 10ms, application-code: 189ms)
+ GET /register 200 in 247ms (next.js: 12ms, application-code: 235ms)
+ GET /forgot-password 200 in 169ms (next.js: 13ms, application-code: 157ms)
+ GET /dashboard 200 in 209ms (next.js: 9ms, application-code: 200ms)
+ GET /transactions 200 in 237ms (next.js: 10ms, application-code: 226ms)
+ GET /invest 200 in 319ms (next.js: 17ms, application-code: 302ms)
+ GET /invest/new 200 in 236ms (next.js: 13ms, application-code: 223ms)
+ GET /deposit 200 in 187ms (next.js: 12ms, application-code: 175ms)
+ GET /withdrawal 200 in 201ms (next.js: 10ms, application-code: 190ms)
+ GET /referral 200 in 221ms (next.js: 12ms, application-code: 208ms)
+ GET /referrals 200 in 253ms (next.js: 8ms, application-code: 244ms)
+ GET /profile 200 in 221ms (next.js: 13ms, application-code: 208ms)
+ GET / 200 in 517ms (next.js: 12ms, application-code: 505ms)
+ GET /invest-plans 200 in 531ms (next.js: 12ms, application-code: 519ms)
+ GET /how-it-works 200 in 434ms (next.js: 12ms, application-code: 421ms)
+ GET /about 200 in 303ms (next.js: 12ms, application-code: 290ms)
+ GET /help 200 in 306ms (next.js: 9ms, application-code: 298ms)
+ GET /contact 200 in 320ms (next.js: 9ms, application-code: 311ms)
+ GET /privacy-policy 200 in 316ms (next.js: 11ms, application-code: 305ms)
+ GET /login 200 in 171ms (next.js: 11ms, application-code: 160ms)
+ GET /register 200 in 169ms (next.js: 12ms, application-code: 157ms)
+ GET /forgot-password 200 in 153ms (next.js: 10ms, application-code: 143ms)
+ GET /dashboard 200 in 187ms (next.js: 8ms, application-code: 179ms)
+ GET /transactions 200 in 229ms (next.js: 10ms, application-code: 219ms)
+ GET /invest 200 in 257ms (next.js: 11ms, application-code: 246ms)
+ GET /invest/new 200 in 232ms (next.js: 12ms, application-code: 220ms)
+ GET /deposit 200 in 173ms (next.js: 10ms, application-code: 163ms)
+ GET /withdrawal 200 in 192ms (next.js: 8ms, application-code: 183ms)
+ GET /referral 200 in 180ms (next.js: 10ms, application-code: 171ms)
+ GET /referrals 200 in 215ms (next.js: 10ms, application-code: 205ms)
+ GET /profile 200 in 178ms (next.js: 9ms, application-code: 169ms)
+ GET / 200 in 455ms (next.js: 14ms, application-code: 441ms)
+ GET /invest-plans 200 in 509ms (next.js: 12ms, application-code: 496ms)
+ GET /how-it-works 200 in 400ms (next.js: 16ms, application-code: 384ms)
+ GET /about 200 in 392ms (next.js: 11ms, application-code: 380ms)
+ GET /help 200 in 338ms (next.js: 15ms, application-code: 323ms)
+ GET /contact 200 in 503ms (next.js: 11ms, application-code: 492ms)
+ GET /privacy-policy 200 in 517ms (next.js: 9ms, application-code: 508ms)
+ GET /login 200 in 219ms (next.js: 14ms, application-code: 205ms)
+ GET /register 200 in 202ms (next.js: 10ms, application-code: 192ms)
+ GET /forgot-password 200 in 217ms (next.js: 17ms, application-code: 200ms)
+ GET /dashboard 200 in 247ms (next.js: 16ms, application-code: 231ms)
+ GET /transactions 200 in 369ms (next.js: 14ms, application-code: 355ms)
+ GET /invest 200 in 249ms (next.js: 9ms, application-code: 240ms)
+ GET /invest/new 200 in 354ms (next.js: 11ms, application-code: 343ms)
+ GET /deposit 200 in 197ms (next.js: 12ms, application-code: 185ms)
+ GET /withdrawal 200 in 251ms (next.js: 23ms, application-code: 228ms)
+ GET /referral 200 in 219ms (next.js: 15ms, application-code: 204ms)
+ GET /referrals 200 in 311ms (next.js: 10ms, application-code: 300ms)
+ GET /profile 200 in 205ms (next.js: 13ms, application-code: 193ms)
+ GET / 200 in 499ms (next.js: 9ms, application-code: 491ms)
+ GET /invest-plans 200 in 478ms (next.js: 13ms, application-code: 465ms)
+ GET /how-it-works 200 in 388ms (next.js: 23ms, application-code: 365ms)
+ GET /about 200 in 467ms (next.js: 102ms, application-code: 365ms)
+ GET /help 200 in 622ms (next.js: 134ms, application-code: 488ms)
+ GET /contact 200 in 617ms (next.js: 20ms, application-code: 597ms)
+ GET /privacy-policy 200 in 656ms (next.js: 41ms, application-code: 615ms)
+ GET /login 200 in 280ms (next.js: 11ms, application-code: 270ms)
+ GET / 200 in 335ms (next.js: 35ms, application-code: 300ms)
+ GET /register 200 in 329ms (next.js: 22ms, application-code: 307ms)
+ GET /register 200 in 821ms (next.js: 115ms, application-code: 707ms)
+ GET /forgot-password 200 in 634ms (next.js: 14ms, application-code: 619ms)
+ GET /dashboard 200 in 399ms (next.js: 15ms, application-code: 384ms)
+ GET /transactions 200 in 369ms (next.js: 20ms, application-code: 349ms)
+ GET / 200 in 358ms (next.js: 22ms, application-code: 336ms)
+ GET /invest 200 in 530ms (next.js: 27ms, application-code: 503ms)
+ GET /login 200 in 354ms (next.js: 132ms, application-code: 222ms)
+ GET /invest/new 200 in 521ms (next.js: 20ms, application-code: 500ms)
+ GET /deposit 200 in 553ms (next.js: 57ms, application-code: 496ms)
+ GET /withdrawal 200 in 339ms (next.js: 38ms, application-code: 302ms)
+ GET /referral 200 in 579ms (next.js: 226ms, application-code: 352ms)
+ GET / 200 in 1838ms (next.js: 22ms, application-code: 1816ms)
+ GET /referrals 200 in 1209ms (next.js: 84ms, application-code: 1126ms)
+ GET /profile 200 in 1453ms (next.js: 415ms, application-code: 1038ms)
+ GET / 200 in 963ms (next.js: 132ms, application-code: 831ms)
+ GET /invest-plans 200 in 711ms (next.js: 18ms, application-code: 692ms)
+ GET /how-it-works 200 in 704ms (next.js: 193ms, application-code: 511ms)
+ GET /about 200 in 705ms (next.js: 63ms, application-code: 641ms)
+ GET /help 200 in 1199ms (next.js: 480ms, application-code: 720ms)
+ GET /contact 200 in 434ms (next.js: 67ms, application-code: 367ms)
+ GET /privacy-policy 200 in 493ms (next.js: 78ms, application-code: 416ms)
+ GET /login 200 in 268ms (next.js: 45ms, application-code: 223ms)
+ GET /register 200 in 261ms (next.js: 24ms, application-code: 236ms)
+ GET /forgot-password 200 in 313ms (next.js: 69ms, application-code: 244ms)
+ GET /dashboard 200 in 655ms (next.js: 218ms, application-code: 437ms)
+ GET /transactions 200 in 1245ms (next.js: 35ms, application-code: 1210ms)
+ GET /invest 200 in 416ms (next.js: 32ms, application-code: 385ms)
+ GET /invest/new 200 in 420ms (next.js: 69ms, application-code: 351ms)
+ GET /deposit 200 in 280ms (next.js: 11ms, application-code: 269ms)
+ GET /withdrawal 200 in 395ms (next.js: 58ms, application-code: 338ms)
+ GET /referral 200 in 572ms (next.js: 115ms, application-code: 457ms)
+ GET /referrals 200 in 950ms (next.js: 16ms, application-code: 933ms)
+ GET /profile 200 in 474ms (next.js: 104ms, application-code: 371ms)
+ GET / 200 in 1051ms (next.js: 71ms, application-code: 980ms)
+ GET /invest-plans 200 in 1880ms (next.js: 240ms, application-code: 1641ms)
+ GET /how-it-works 200 in 703ms (next.js: 21ms, application-code: 682ms)
+ GET /about 200 in 728ms (next.js: 62ms, application-code: 666ms)
+ GET /help 200 in 635ms (next.js: 16ms, application-code: 619ms)
+ GET /contact 200 in 1206ms (next.js: 63ms, application-code: 1144ms)
+ GET /privacy-policy 200 in 1062ms (next.js: 54ms, application-code: 1008ms)
+ GET /login 200 in 376ms (next.js: 23ms, application-code: 353ms)
+ GET /register 200 in 527ms (next.js: 34ms, application-code: 493ms)
+ GET /forgot-password 200 in 377ms (next.js: 41ms, application-code: 336ms)
+ GET /dashboard 200 in 672ms (next.js: 71ms, application-code: 601ms)
+ GET /transactions 200 in 426ms (next.js: 22ms, application-code: 405ms)
+ GET /invest 200 in 377ms (next.js: 30ms, application-code: 348ms)
+ GET /invest/new 200 in 459ms (next.js: 25ms, application-code: 434ms)
+ GET /deposit 200 in 657ms (next.js: 9ms, application-code: 648ms)
+ GET /withdrawal 200 in 393ms (next.js: 20ms, application-code: 372ms)
+ GET /referral 200 in 455ms (next.js: 72ms, application-code: 383ms)
+ GET /referrals 200 in 414ms (next.js: 38ms, application-code: 377ms)
+ GET /profile 200 in 788ms (next.js: 121ms, application-code: 667ms)
+ GET / 200 in 1186ms (next.js: 53ms, application-code: 1133ms)
+ GET /invest-plans 200 in 967ms (next.js: 11ms, application-code: 956ms)
+ GET /how-it-works 200 in 1076ms (next.js: 95ms, application-code: 980ms)
+ GET /about 200 in 1029ms (next.js: 221ms, application-code: 809ms)
+ GET /help 200 in 1423ms (next.js: 129ms, application-code: 1293ms)
+ GET /contact 200 in 1679ms (next.js: 399ms, application-code: 1280ms)
+ GET /privacy-policy 200 in 1103ms (next.js: 46ms, application-code: 1057ms)
+ GET /login 200 in 564ms (next.js: 106ms, application-code: 457ms)
+ GET /register 200 in 355ms (next.js: 128ms, application-code: 227ms)
+ GET /forgot-password 200 in 465ms (next.js: 104ms, application-code: 361ms)
+ GET /dashboard 200 in 518ms (next.js: 41ms, application-code: 478ms)
+ GET /transactions 200 in 403ms (next.js: 42ms, application-code: 361ms)
+ GET /invest 200 in 406ms (next.js: 46ms, application-code: 360ms)
+ GET /invest/new 200 in 442ms (next.js: 17ms, application-code: 424ms)
+ GET /deposit 200 in 595ms (next.js: 60ms, application-code: 535ms)
+ GET /withdrawal 200 in 340ms (next.js: 31ms, application-code: 309ms)
+ GET /referral 200 in 535ms (next.js: 26ms, application-code: 509ms)
+ GET /referrals 200 in 344ms (next.js: 49ms, application-code: 295ms)
+ GET /profile 200 in 318ms (next.js: 34ms, application-code: 283ms)
+ GET / 200 in 875ms (next.js: 94ms, application-code: 780ms)
+ GET /invest-plans 200 in 1907ms (next.js: 78ms, application-code: 1829ms)
+ GET /how-it-works 200 in 1017ms (next.js: 54ms, application-code: 963ms)
+ GET /about 200 in 576ms (next.js: 15ms, application-code: 561ms)
+ GET /help 200 in 650ms (next.js: 25ms, application-code: 625ms)
+ GET /contact 200 in 534ms (next.js: 68ms, application-code: 466ms)
+ GET /privacy-policy 200 in 592ms (next.js: 43ms, application-code: 549ms)
+ GET /login 200 in 478ms (next.js: 10ms, application-code: 468ms)
+ GET /register 200 in 270ms (next.js: 16ms, application-code: 254ms)
+ GET /forgot-password 200 in 276ms (next.js: 24ms, application-code: 252ms)
+ GET /dashboard 200 in 653ms (next.js: 64ms, application-code: 589ms)
+ GET /transactions 200 in 398ms (next.js: 44ms, application-code: 354ms)
+ GET /invest 200 in 406ms (next.js: 26ms, application-code: 380ms)
+ GET /invest/new 200 in 449ms (next.js: 41ms, application-code: 409ms)
+ GET /deposit 200 in 543ms (next.js: 76ms, application-code: 468ms)
+ GET /withdrawal 200 in 348ms (next.js: 49ms, application-code: 299ms)
+ GET /referral 200 in 376ms (next.js: 46ms, application-code: 331ms)
+ GET /referrals 200 in 526ms (next.js: 41ms, application-code: 485ms)
+ GET /profile 200 in 669ms (next.js: 37ms, application-code: 633ms)
+ GET / 200 in 735ms (next.js: 26ms, application-code: 710ms)
+ GET /invest-plans 200 in 1013ms (next.js: 22ms, application-code: 991ms)
+ GET /how-it-works 200 in 1089ms (next.js: 189ms, application-code: 900ms)
+ GET /about 200 in 686ms (next.js: 68ms, application-code: 618ms)
+ GET /help 200 in 684ms (next.js: 59ms, application-code: 624ms)
+ GET /contact 200 in 480ms (next.js: 27ms, application-code: 453ms)
+ GET /privacy-policy 200 in 566ms (next.js: 36ms, application-code: 530ms)
+ GET /login 200 in 489ms (next.js: 263ms, application-code: 225ms)
+ GET /register 200 in 1073ms (next.js: 24ms, application-code: 1049ms)
+ GET /forgot-password 200 in 655ms (next.js: 22ms, application-code: 632ms)
+ GET /dashboard 200 in 481ms (next.js: 26ms, application-code: 455ms)
+ GET /transactions 200 in 878ms (next.js: 15ms, application-code: 863ms)
+ GET /invest 200 in 827ms (next.js: 86ms, application-code: 741ms)
+ GET /invest/new 200 in 540ms (next.js: 99ms, application-code: 441ms)
+ GET /deposit 200 in 460ms (next.js: 34ms, application-code: 426ms)
+ GET /withdrawal 200 in 360ms (next.js: 76ms, application-code: 285ms)
+ GET /referral 200 in 483ms (next.js: 25ms, application-code: 458ms)
+ GET /referrals 200 in 308ms (next.js: 52ms, application-code: 256ms)
+ GET /profile 200 in 265ms (next.js: 25ms, application-code: 240ms)
+ GET / 200 in 715ms (next.js: 18ms, application-code: 696ms)
+ GET /invest-plans 200 in 505ms (next.js: 23ms, application-code: 482ms)
+ GET /how-it-works 200 in 374ms (next.js: 22ms, application-code: 353ms)
+ GET /about 200 in 436ms (next.js: 18ms, application-code: 418ms)
+ GET /help 200 in 406ms (next.js: 20ms, application-code: 386ms)
+ GET /contact 200 in 321ms (next.js: 18ms, application-code: 303ms)
+ GET /privacy-policy 200 in 386ms (next.js: 15ms, application-code: 371ms)
+ GET /login 200 in 209ms (next.js: 16ms, application-code: 194ms)
+ GET /register 200 in 286ms (next.js: 18ms, application-code: 269ms)
+ GET /forgot-password 200 in 198ms (next.js: 13ms, application-code: 185ms)
+ GET /dashboard 200 in 289ms (next.js: 18ms, application-code: 271ms)
+ GET /transactions 200 in 264ms (next.js: 10ms, application-code: 254ms)
+ GET /invest 200 in 318ms (next.js: 18ms, application-code: 300ms)
+ GET /invest/new 200 in 302ms (next.js: 12ms, application-code: 290ms)
+ GET /deposit 200 in 239ms (next.js: 16ms, application-code: 223ms)
+ GET /withdrawal 200 in 254ms (next.js: 25ms, application-code: 228ms)
+ GET /referral 200 in 263ms (next.js: 14ms, application-code: 248ms)
+ GET /referrals 200 in 329ms (next.js: 13ms, application-code: 316ms)
+ GET /profile 200 in 279ms (next.js: 21ms, application-code: 258ms)
+○ Compiling /invest/[id] ...
+ GET /invest/inv-1001 200 in 10.2s (next.js: 9.7s, application-code: 418ms)
+ GET / 200 in 691ms (next.js: 35ms, application-code: 657ms)
+ GET /invest-plans 200 in 541ms (next.js: 40ms, application-code: 501ms)
+ GET /how-it-works 200 in 411ms (next.js: 24ms, application-code: 387ms)
+ GET /about 200 in 414ms (next.js: 33ms, application-code: 381ms)
+ GET /help 200 in 429ms (next.js: 28ms, application-code: 401ms)
+ GET /contact 200 in 392ms (next.js: 25ms, application-code: 367ms)
+ GET /privacy-policy 200 in 366ms (next.js: 26ms, application-code: 339ms)
+ GET /login 200 in 188ms (next.js: 16ms, application-code: 172ms)
+ GET /register 200 in 174ms (next.js: 25ms, application-code: 149ms)
+ GET /forgot-password 200 in 193ms (next.js: 25ms, application-code: 168ms)
+ GET /dashboard 200 in 284ms (next.js: 29ms, application-code: 255ms)
+ GET /transactions 200 in 304ms (next.js: 29ms, application-code: 275ms)
+ GET /invest 200 in 298ms (next.js: 23ms, application-code: 275ms)
+ GET /invest/new 200 in 348ms (next.js: 34ms, application-code: 315ms)
+ GET /deposit 200 in 269ms (next.js: 34ms, application-code: 235ms)
+ GET /withdrawal 200 in 277ms (next.js: 25ms, application-code: 253ms)
+ GET /referral 200 in 267ms (next.js: 21ms, application-code: 246ms)
+ GET /referrals 200 in 275ms (next.js: 23ms, application-code: 252ms)
+ GET /profile 200 in 256ms (next.js: 20ms, application-code: 236ms)
+ GET /invest/inv-1001 200 in 379ms (next.js: 83ms, application-code: 297ms)
+ GET / 200 in 819ms (next.js: 19ms, application-code: 800ms)
+ GET /invest-plans 200 in 577ms (next.js: 15ms, application-code: 562ms)
+ GET /how-it-works 200 in 456ms (next.js: 14ms, application-code: 442ms)
+ GET /about 200 in 463ms (next.js: 13ms, application-code: 450ms)
+ GET /help 200 in 395ms (next.js: 15ms, application-code: 380ms)
+ GET /contact 200 in 398ms (next.js: 15ms, application-code: 383ms)
+ GET /privacy-policy 200 in 330ms (next.js: 14ms, application-code: 317ms)
+ GET /login 200 in 219ms (next.js: 14ms, application-code: 205ms)
+ GET /register 200 in 226ms (next.js: 15ms, application-code: 211ms)
+ GET /forgot-password 200 in 223ms (next.js: 12ms, application-code: 211ms)
+ GET /dashboard 200 in 353ms (next.js: 10ms, application-code: 342ms)
+ GET /transactions 200 in 346ms (next.js: 14ms, application-code: 332ms)
+ GET /invest 200 in 337ms (next.js: 14ms, application-code: 324ms)
+ GET /invest/new 200 in 439ms (next.js: 20ms, application-code: 419ms)
+ GET /deposit 200 in 272ms (next.js: 12ms, application-code: 260ms)
+ GET /withdrawal 200 in 286ms (next.js: 16ms, application-code: 270ms)
+ GET /referral 200 in 323ms (next.js: 18ms, application-code: 305ms)
+ GET /referrals 200 in 305ms (next.js: 15ms, application-code: 291ms)
+ GET /profile 200 in 362ms (next.js: 12ms, application-code: 350ms)
+ GET /invest/inv-1001 200 in 444ms (next.js: 105ms, application-code: 338ms)
+ GET / 200 in 970ms (next.js: 80ms, application-code: 890ms)
+ GET /invest-plans 200 in 754ms (next.js: 14ms, application-code: 739ms)
+✓ Compiled in 1211ms
+ GET / 200 in 1606ms (next.js: 127ms, application-code: 1479ms)
+ GET / 200 in 1159ms (next.js: 39ms, application-code: 1120ms)
+ GET / 200 in 831ms (next.js: 21ms, application-code: 809ms)
+ GET /invest-plans 200 in 907ms (next.js: 102ms, application-code: 806ms)
+ GET /about 200 in 682ms (next.js: 96ms, application-code: 586ms)
+ GET / 200 in 934ms (next.js: 19ms, application-code: 914ms)
+ GET /invest-plans 200 in 1124ms (next.js: 15ms, application-code: 1109ms)
+ GET / 200 in 772ms (next.js: 19ms, application-code: 753ms)
+ GET /invest-plans 200 in 435ms (next.js: 75ms, application-code: 360ms)
+ GET /invest/new?plan=premium 200 in 75ms (next.js: 11ms, application-code: 64ms)
+ GET /how-it-works 200 in 133ms (next.js: 39ms, application-code: 94ms)
+ GET /register 200 in 112ms (next.js: 19ms, application-code: 94ms)
+ GET / 200 in 172ms (next.js: 9ms, application-code: 162ms)
+ GET /contact 200 in 265ms (next.js: 73ms, application-code: 191ms)
+ GET /invest-plans 200 in 141ms (next.js: 12ms, application-code: 129ms)
+ GET /register 200 in 121ms (next.js: 43ms, application-code: 78ms)
+ GET /dashboard 200 in 79ms (next.js: 11ms, application-code: 68ms)
+ GET /deposit 200 in 33ms (next.js: 7ms, application-code: 26ms)
+ GET /dashboard 200 in 270ms (next.js: 40ms, application-code: 230ms)
+ GET /admin 404 in 1559ms (next.js: 1475ms, application-code: 85ms)
+ GET /admin/login 404 in 97ms (next.js: 10ms, application-code: 87ms)
+ GET /login 200 in 127ms (next.js: 12ms, application-code: 115ms)
+ GET / 200 in 624ms (next.js: 93ms, application-code: 531ms)
+ GET /login 200 in 132ms (next.js: 50ms, application-code: 82ms)
+[browser] Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+ GET /dashboard 200 in 89ms (next.js: 60ms, application-code: 29ms)
+ GET /profile 200 in 68ms (next.js: 43ms, application-code: 25ms)
+ GET /admin/login 404 in 1359ms (next.js: 1175ms, application-code: 184ms)
+ GET /admin/login 404 in 78ms (next.js: 15ms, application-code: 63ms)
+ GET / 200 in 201ms (next.js: 5ms, application-code: 195ms)
+ GET /login 200 in 70ms (next.js: 5ms, application-code: 66ms)
+ GET /admin/login 404 in 59ms (next.js: 7ms, application-code: 52ms)
+ GET /admin 404 in 54ms (next.js: 8ms, application-code: 47ms)
+[?25h
